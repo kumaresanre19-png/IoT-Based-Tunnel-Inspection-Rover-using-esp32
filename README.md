@@ -47,6 +47,7 @@ Sensor data acquisition
 Blynk communication
 Obstacle detection
 Gas monitoring
+
 2. Camera Controller (ESP32-CAM)
 Handles:
 
